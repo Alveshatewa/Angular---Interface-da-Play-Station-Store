@@ -1,0 +1,118 @@
+.footer_container{
+    width: 100%;
+    height: 100%px;
+    background-color: rgb(20, 20, 20);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 36%, rgba(9,9,121,1)100%);
+
+    margin-top: 15px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.regionCountry{
+    padding-top: 30px;
+    margin-left: 100px;
+}
+
+.container_items{
+
+    display: flex;
+    flex-flow: row wrap;
+    gap: 100px;
+
+    margin-left: 90px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+    font-size: small;
+    font-weight: 400;
+}
+
+.footer-itens1 > ul {
+
+    list-style: none;
+    font-weight: 100;
+  
+}
+
+.footer-itens1 > ul > li{
+    
+    padding-bottom: 20px;
+}
+
+.footer-itens1 > ul > li > a {
+    text-decoration: none;
+    color: white;
+   
+}
+
+.footer-itens1 > ul > li > a:hover{
+    color: gray;
+}
+
+
+.footer-itens2 > ul {
+
+    list-style: none;
+    margin-left: 100px;
+  
+}
+
+.footer-itens2 > ul > li{
+    
+    padding-bottom: 20px;
+}
+
+
+.footer-itens2 > ul > li > a {
+    text-decoration: none;
+    color: white;
+    
+}
+
+.footer-itens2 > ul > li > a:hover{
+    color: gray;
+}
+
+
+.footer-itens3 > ul {
+
+    list-style: none;
+    margin-left: 100px;
+  
+}
+
+.footer-itens3 > ul > li{
+    
+    padding-bottom: 20px;
+}
+
+
+.footer-itens3 > ul > li > a {
+    text-decoration: none;
+    color: white;
+    
+}
+
+.footer-itens3 > ul > li > a:hover{
+    color: gray;
+}
+
+.copy{
+    display: flex;
+    justify-content: center;
+    font-size: smaller;
+   
+}
+
+.copy > a{
+    text-decoration: none;
+    color: white;
+    padding: 40px;
+}
+
+.copy > a:hover{
+    color: gray;
+
+}

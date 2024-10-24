@@ -1,0 +1,26 @@
+.container__home{
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    padding-top: 100px;
+    justify-content: space-around;
+}
+
+.card-carrossel_title > h2{
+
+    margin-top: 50px;
+    margin-left: 90px;
+    color: rgb(94, 91, 91);
+    font-weight: lighter;
+}
+
+.card-carrossel{
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    padding-top: 50px;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
